@@ -1,0 +1,33 @@
+#Imagenes{width: 600px; height: 600px;} 
+
+#Imagen1 {width: 600px; height: 100px;
+        background-image: url(../Imagen/1.jpg);
+        background-repeat: no-repeat;
+        float: left;
+        background-size: cover;
+      }
+#opaci1:hover{filter: opacity(.5);}
+#opaci2:hover{filter: opacity(.5);}
+#opaci3:hover{filter: opacity(.5);}
+
+#vacio{width: 200px; height: 100px; background-color: green; float: left; }
+
+#Imagen2{width: 400px; height: 400px;
+        background-image: url(../Imagen/2.jpg);
+        background-repeat: no-repeat;
+       float:right;
+        background-size: cover;
+    }
+#Imagen3{width: 200px; height: 200px;
+    background-image: url(../Imagen/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    
+   
+}
+
+#vacio2{width: 200px; height: 100px; background-color: green; float: left;}
+#vacio3{width: 200px; height: 200px; background-color: black; float: left; }
+#vacio4{width: 200px; height: 200px; background-color: greenyellow;float: right; }
+#vacio5{width: 200px; height: 200px; background-color: greenyellow; float: left; }
